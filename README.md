@@ -83,3 +83,6 @@ Bila kita jalan kan kode diatas akan mengeluarkan Output seperti gambar di bawah
 
 ![5.png](/gambar/5.png)
 
+
+![9.png](/gambar/9.png)
+
