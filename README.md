@@ -77,11 +77,13 @@ Bila kita jalan kan kode diatas akan mengeluarkan Output seperti gambar di bawah
 
 * Gambar 4
 
-![4.png](/gambar/4.png)
+![5.png](/gambar/5.png)
+
 
 * Gambar 5
 
-![5.png](/gambar/5.png)
+![6.png](/gambar/6.png)
+
 
 
 ![9.png](/gambar/9.png)
